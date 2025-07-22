@@ -25,19 +25,18 @@
 5. We save each result in a variable
 6. Then we print the results using cout
 ## What I Used
-*#include → to add libraries
-*cin, cout → to take input and give output
-*+, -, *, / → to do math
-*float → to store numbers with decimals
-*// → to write comments
-*if-else → to make decisions (if needed)
-*Every statement in C++ ends with a semicolon (;)
-
+- `#include` → to add libraries  
+- `cin`, `cout` → to take input and give output  
+- `+`, `-`, `*`, `/` → to do math  
+- `float` → to store numbers with decimals  
+- `//` → to write comments  
+- `if-else` → to make decisions (if needed)  
+- Every statement in C++ ends with a semicolon (`;`)
 ## Sample Output
-Hello World
+'''Hello World
 Enter num1 :	54
 Enter num_2 :	89
 Sum :143
 Difference :-35
 Product :4806
-Division :0.606742
+Division :0.606742'''
