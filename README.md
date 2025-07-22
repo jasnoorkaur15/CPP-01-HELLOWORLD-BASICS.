@@ -10,13 +10,13 @@
 🔹 Use of // to write comments in code for better understanding of code.
 ## Program Explanation
 ### Basic Operations and Terms used
-* #include tells the computer to use input and output functions
-*using namespace std; lets us use cout and cin easily (no need to write std::everytime)
-*int main() is the starting point of every C++ program.
-*return 0; means the program implemented successfully.
-*cout is used to print something on screen
-*cin is used to take input from the user
-*if-else(conditional statements) helps us decide what to do based on conditions (true/false)
+- `#include` → Tells the computer to use input and output functions  
+- `using namespace std;` → Lets us use `cout` and `cin` easily (no need to write `std::` every time)  
+- `int main()` → Starting point of every C++ program  
+- `return 0;` → Indicates that the program executed successfully  
+- `cout` → Used to print something on the screen  
+- `cin` → Used to take input from the user  
+- `if-else` (conditional statements) → Helps decide what to do based on conditions (`true` / `false`)
 ## Program execution
 1. We use cout to print: "Hello, World!"
 2. Then we make a calculator:
@@ -33,10 +33,14 @@
 - `if-else` → to make decisions (if needed)  
 - Every statement in C++ ends with a semicolon (`;`)
 ## Sample Output
-'''Hello World
-Enter num1 :	54
-Enter num_2 :	89
-Sum :143
-Difference :-35
-Product :4806
-Division :0.606742'''
+### 🖥️ Sample Output
+
+```cpp
+Hello World
+Enter num1 :    54
+Enter num_2 :   89
+Sum :           143
+Difference :    -35
+Product :       4806
+Division :      0.606742
+
